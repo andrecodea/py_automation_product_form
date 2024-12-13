@@ -1,5 +1,5 @@
-# Python Power Up
-[PTBR] Python Power Up é uma automação de cadastro de produtos para uma base de dados utilizando Python e PyAutoGUI.
+# Python Automation For Product Data Entries
+[PTBR] Isso é automação de cadastro de produtos para uma base de dados utilizando Python e PyAutoGUI.
 O objetivo desse projeto foi automatizar uma tarefa repetitiva, que é o cadastro de produtos em uma base de dados, onde devem ser inseridas as informações: 
 - Nome do produto
 - Código do produto
@@ -10,6 +10,14 @@ O objetivo desse projeto foi automatizar uma tarefa repetitiva, que é o cadastr
 - Observação (Opcional)
 
 [ENG] This is a Python automation for product registering using PyAutoGUI to insert product data into the company's website's form.
+"The objective of this project was to automate a repetitive task, which is the registration of products in a database, where the following information must be entered:
+- Product name
+- Product code
+- Product brand
+- Product cost
+- Product type
+- Unit price of the product
+- Observation (Optional)
 
 ## Processo de Desenvolvimento | Development Process
 1. O primeiro passo do projeto foi a importação das bibliotecas `PyAutoGui`, `Pandas` e o módulo `time` | Importing `PyAutoGui`, `Pandas` libraries, and the `time` module.
